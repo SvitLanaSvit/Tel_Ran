@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: crimson;
+    text-align: center;
+}
+
+div{
+    border: 2px solid black;
+    margin: 30px;
+    padding: 20px;
+}
+
+.Hobby img{
+    width: 500px;
+}
+
+.Study img{
+    width: 500px;
+}
+
+.Friend img{
+    width: 500px;
+}
+
+.Hobby{
+    background-color: #3498db;
+    color: #2c3e50;
+}
+
+.Study{
+    background-color: #2ecc71;
+    color: #2c3e50;
+}
+
+.Friend{
+    background-color: #8e44ad;
+    color: white;
+}
+
+.social_media{
+    text-align: center;
+}
